@@ -1,2 +1,2 @@
-nombre = input("¿Cómo te llamasa? ")
+nombre = input("¿Cómo te llamas? ")
 print(f"Hola, {nombre}! Bienvenido al módulo de Programación.")
